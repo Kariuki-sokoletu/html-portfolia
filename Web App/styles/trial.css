@@ -1,0 +1,21 @@
+.a,
+.b,
+.c,
+.d {
+  height: 50px;
+  width: 50px;
+}
+.a {
+  background-color: red;
+}
+.b {
+  background-color: green;
+}
+.c {
+  background-color: yellow;
+}
+.d {
+  background-color: blue;
+  position: absolute;
+  top: 0;
+}
